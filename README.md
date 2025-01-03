@@ -19,14 +19,18 @@ A simple and easy-to-use boilerplate for creating React libraries with a demo ap
 
 ### Clone the repository
 
+```bash
 git clone https://github.com/siddhant-indhi/react-library-boilerplate.git
 cd react-library-boilerplate
+```
 
 ### Install Dependencies
 
 Install the dependencies for both the library and the demo app:
 
+```bash
 npm install
+```
 
 ### Running the Library
 
@@ -34,6 +38,7 @@ To run the library in development mode:
 
 ```bash
 npm run dev
+```
 
 ### Running the Demo App
 
@@ -43,3 +48,4 @@ To run the demo app, first navigate into the `demo` directory and then install t
 cd demo
 npm install
 npm start
+```
