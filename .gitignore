@@ -1,0 +1,48 @@
+# Node.js (general)
+node_modules/
+
+# Ignore package-lock.json in the demo folder
+/demo/package-lock.json
+
+# Build output
+/dist/
+/build/
+/lib/
+
+# Dependency directories
+/.cache/
+/node_modules/
+
+# Vite files
+.vite/
+
+# Rollup cache
+.rollup/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# NPM or Yarn lock files if you want to ignore them
+package-lock.json
+yarn.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Test coverage
+coverage/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
